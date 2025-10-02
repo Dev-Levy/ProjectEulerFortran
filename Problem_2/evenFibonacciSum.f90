@@ -19,6 +19,6 @@ program evenFibonacciSum
         fib = fib_past + fib_curr
     end do
 
-    print*, '-------------------'
+    print*, '-----------'
     print*, sum
 end program evenFibonacciSum
